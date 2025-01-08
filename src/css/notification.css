@@ -1,0 +1,19 @@
+.notification-container{
+  background-color: white;
+  padding: 0.5rem;
+  display: inline-block;
+  text-align: center;
+  font-size: larger;
+  border-radius: 10px;
+  width: fit-content;
+  opacity: 0;
+  transition: 1s;
+  color: black;
+  font-size: 1.4rem;
+}
+
+.span-container{
+  width: 100%;
+  text-align: center;
+  margin-top: 10px;
+}
